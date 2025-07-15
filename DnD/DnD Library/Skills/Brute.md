@@ -1,0 +1,1 @@
+ A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).

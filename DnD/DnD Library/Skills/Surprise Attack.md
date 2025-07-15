@@ -1,0 +1,1 @@
+If the creature surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 or 2d6 game from the attack

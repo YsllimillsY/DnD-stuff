@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "5cd70b6800b2ccae",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d3220deb21edba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a349e455a920436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nearborn/Sessions Notes/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e2ffe394e3b376d",
+    "type": "split",
+    "children": [
+      {
+        "id": "438ba10891f7292e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e82c482a35ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5302b6f98d3a4035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4e6747474bb16f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcaa051bdf7bb828",
+    "type": "split",
+    "children": [
+      {
+        "id": "b405ee5a1d1200fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00415e4a64a1e971",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nearborn/Players/Template.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template"
+            }
+          },
+          {
+            "id": "11156296eb62c32d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nearborn/Players/Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Template"
+            }
+          },
+          {
+            "id": "550ebde220612f06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "256de387b2270a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nearborn/Players/Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Template"
+            }
+          },
+          {
+            "id": "e80475b7ddbf49ed",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b387cda23ce1d3b4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a26386fe32f31d6b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "f1715956840fb2e8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f2eeba20a7fee941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f060461c03070a1d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "5a349e455a920436",
+  "lastOpenFiles": [
+    "Nearborn/Sessions Notes/Session 3.md",
+    "Nearborn/Sessions Notes/Session 2.md",
+    "Nearborn/Sessions Notes/Session 1.md",
+    "Nearborn/Sessions Notes/Session 4.md",
+    "Nearborn/images/Shanty.png",
+    "Nearborn/images/Shanty 1.png",
+    "Nearborn/images/Shanty-Districts-Routes.png",
+    "Embrace the Rot - Endless tavern/A micro campaign.md",
+    "Embrace the Rot - Endless tavern/Prolog.md",
+    "Nearborn/images/Nearborn.png",
+    "Nearborn/NPCs/Annabelle.md",
+    "Nearborn/Combat/Combat 1.md",
+    "Embrace the Rot - Endless tavern/Untitled",
+    "Embrace the Rot - Endless tavern",
+    "Nearborn/Quests/Chapter 2/Quest 1 - Hypnosis.md",
+    "Nearborn/Quests/Chapter 1/Quest 5 - Take Aim.md",
+    "Nearborn/Quests/Chapter 1/Quest 4 - Higher.md",
+    "Nearborn/Quests/Chapter 1/Quest 3 - Dark Signs.md",
+    "Nearborn/Quests/Chapter 2/Quest 4 - Like That.md",
+    "Nearborn/Players/Murkfirth.md",
+    "Nearborn/Players/Isha.md",
+    "Nearborn/NPCs/Vincent.md",
+    "Nearborn/Players/Yontha.md",
+    "Nearborn/Players/Jet plume.md",
+    "Nearborn/images/ps270B.tmp",
+    "Nearborn/Players/Oreye.md",
+    "Nearborn/World Lore/Drugs.md",
+    "Nearborn/Locations/The Mountain Ram.md",
+    "Nearborn/NPCs/Damion.md",
+    "Nearborn/NPCs/Captain Kuro.md",
+    "Nearborn/NPCs/Danial.md",
+    "The skies of Helios/Concept.md",
+    "Nearborn/Players/Template.md",
+    "Nearborn/Quests/Chapter 2",
+    "Nearborn/Quests/Chapter 1",
+    "Pasted image 20250228085742.png",
+    "The skies of Helios",
+    "DnD Library/Skills",
+    "Nearborn/NPCs",
+    "Nearborn/Players",
+    "Nearborn/Sessions Notes",
+    "Nearborn/images/nearborn.png"
+  ]
+}

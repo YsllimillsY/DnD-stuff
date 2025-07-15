@@ -1,0 +1,1 @@
+This is the classification of monsters for linking

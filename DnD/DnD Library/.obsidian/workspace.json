@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "27275653ebb94b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "9609a963e169e205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "243ebba3a16f2ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Barbarian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f124fc83f3a1f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a298e8cc536eaa32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce916237d1916f11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffedf48e88e0c92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ef574fe70a731b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fca5ccaf0f37c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c91af10124cd32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/Barbarian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e54356e97fb2f431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/Barbarian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31ef08a96e075d98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88669c18320abb68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/Barbarian.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce916237d1916f11",
+  "lastOpenFiles": [
+    "Encounters/Encounter 1 Roadside Goblins.md",
+    "Spells/Speak with Animals.md",
+    "Spells/Commune with Nature.md",
+    "Spells/Level 2/ALTER SELF.md",
+    "Spells/Level 2/AID.md",
+    "Spells/Level 1/ANIMAL FRIENDSHIP.md",
+    "Spells/Level 1/ALARM.md",
+    "Spells/Cantrip/Acid Splash.md",
+    "Enemies/Goblin.md",
+    "Classes/Barbarian.md",
+    "Classes/Sorcerer.md",
+    "Classes/Bard.md",
+    "Spells/Beast Sense.md",
+    "Classes/All.md",
+    "Classes/Fighter.md",
+    "Classes/Druid.md",
+    "Classes/Wizard.md",
+    "Enemies/Cultist.md",
+    "Reckless Attack.md",
+    "Classes/Cleric.md",
+    "Classes/Rogue.md",
+    "Classes/Ranger.md",
+    "Classes/Paladin.md",
+    "Classes/Monk.md",
+    "Classes/Warlock.md",
+    "Classes",
+    "Enemies/Bugbear.md",
+    "Players",
+    "Spells/Level 2",
+    "Spells/Level 1",
+    "Spells/Cantrip",
+    "Spells",
+    "Maps/Wave Echo Cave(Player).png",
+    "Maps/Wave Echo Cave(DM).png",
+    "Maps/Cragmaw Castle(Player).png",
+    "Maps/Cragmaw Castle(DM).png",
+    "Maps/Ruins of Thundertree(Player).png",
+    "Maps/Ruins of Thundertree(DM).png",
+    "Maps/Encounter1.jpg",
+    "Maps/Redbrand Hideout(Players).png",
+    "Maps/Redbrand Hideout Marked(DM).png",
+    "Maps/Phandalin Town.png",
+    "Maps",
+    "Enemies",
+    "Weapons",
+    "Encounters",
+    "World.canvas"
+  ]
+}
